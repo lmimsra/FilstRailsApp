@@ -6,13 +6,14 @@
 
 # Ignore bundler config.
 /.bundle
-
+/vendor/bundle
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-
+.idea
+HelloRails.iml
 /node_modules
 /yarn-error.log
 
